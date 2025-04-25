@@ -1,16 +1,15 @@
 import cv2
 import numpy as np
 from ultralytics import YOLO
-# from sort import Sort  # Make sure sort.py is in the same directory
 from collections import defaultdict
 
 import importlib.util
 import sys
 
-# Full path to sort.py
+# Path to sort.py
 sort_path = r"C:\Users\tando\OneDrive\Desktop\New folder\sort.py"
 
-# Module name (you can name it anything)
+# Module name 
 module_name = "sort"
 
 # Load the module
