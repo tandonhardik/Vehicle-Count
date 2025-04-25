@@ -7,10 +7,10 @@ from collections import defaultdict
 import importlib.util
 import sys
 
-# Full path to sort.py
+# Path to sort.py
 sort_path = r"C:\Users\tando\OneDrive\Desktop\New folder\sort.py"
 
-# Module name (you can name it anything)
+# Module name 
 module_name = "sort"
 
 # Load the module
